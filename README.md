@@ -3,12 +3,6 @@
 A compact weather widget built using Arduino, DHT11 sensor, and an SSD1306 OLED display.  
 Shows **temperature** and **humidity** with a smooth **fan + droplet animation** for a clean visual look.
 
----
-
-## 📸 Preview
-
-![Preview 1](./preview1.jpg)
-
 
 ---
 
